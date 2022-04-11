@@ -1,4 +1,4 @@
-👋 Hi, I’m Sinan, full stack developer going for 14+ years.
+👋 Hi, I’m Sinan, doing the full stack thing for the last 14+ years.
 
 👀 I’m interested in automating absolutely everything.
 <!-- - 🌱 I’m currently learning ...
